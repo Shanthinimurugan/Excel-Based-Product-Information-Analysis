@@ -5,7 +5,7 @@
 This project is an Excel-based product data analysis assignment.  
 The dataset contains product details such as Product ID, Product Name, Brand Name, Price, Quantity, and Category.
 
-The purpose of this project is to perform basic data exploration and analysis using Excel formulas and functions. it helps to handle product data efficiently, improve accuracy in analysis and compare product performances.
+The purpose of this project is to perform basic data exploration and analysis using Excel formulas and functions. It helps to handle product data efficiently, improve accuracy in analysis and compare product performances.
 
 ---
 
