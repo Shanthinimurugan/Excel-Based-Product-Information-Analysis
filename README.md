@@ -1,11 +1,13 @@
 # Excel-Based-Product-Information-Analysis
 
+This project focuses on data analysis using fundamental Excel formulas.
+
 ## Description
 
 This project is an Excel-based product data analysis assignment.  
 The dataset contains product details such as Product ID, Product Name, Brand Name, Price, Quantity, and Category.
 
-The purpose of this project is to perform basic data exploration and analysis using Excel formulas and functions. It helps to handle product data efficiently, improve accuracy in analysis and compare product performances.
+The purpose of this project is to perform basic data exploration and analysis using Excel formulas and functions. It helps to handle product data efficiently, improves accuracy in analysis and compare product performances.
 
 ---
 
@@ -15,7 +17,7 @@ The purpose of this project is to perform basic data exploration and analysis us
 
 Before opening this project, make sure you have:
 
-- Windows 10 or above
+- Windows 10 or later
 - Microsoft Excel 2016 or later
 - Basic knowledge of Excel formulas and tables
 
@@ -25,7 +27,7 @@ Before opening this project, make sure you have:
 
 1. Download the Excel files from this repository.
 2. Save the files to your computer.
-3. Open the file using Microsoft Excel.
+3. Open the file using Microsoft Excel. 
 4. Enable editing if Excel shows a protected view warning.
 
 ---
@@ -34,42 +36,9 @@ Before opening this project, make sure you have:
 
 ## Steps to Run the Project
 
-1. Open the Excel workbook.
-2. View the dataset sheet.
-3. Use formulas to analyze the data.
-4. Check category-wise products, prices, and quantities.
-
-## Example Formulas Used
-
-### SUM Formula
-
-```excel
-=SUM(D2:D35)
-```
-
-### COUNTA Formula
-
-```excel
-=COUNTA(B2:B35)
-```
-
-### AVERAGE Formula
-
-```excel
-=AVERAGE(D2:D35)
-```
-
-### MIN Formula
-
-```excel
-=MIN(D2:D35)
-```
-
-### MAX Formula
-
-```excel
-=MAX(D2:D35)
-```
+1. Open the attached Excel file: ```Product Information Analysis using Excel.Xlsx```
+2. View the dataset file.
+3. Click the formulas in the file to explore the data
 
 ---
 
@@ -80,21 +49,12 @@ Before opening this project, make sure you have:
 ### Excel file not opening
 Make sure Microsoft Excel is installed properly.
 
-### Formula not working
-- Check whether the formula starts with `=`
-- Verify the selected cell range
-
-### Table formatting issue
-Go to **Table Design → Convert to Range** if you want a normal table.
-
----
 
 # Authors
 
 **Shanthini**  
 BE CSE Graduate
 
----
 
 # Version History
 
@@ -103,20 +63,16 @@ BE CSE Graduate
 - Added product dataset
 - Applied Excel formulas and formatting
 
----
 
 # License
 
 This project is created for educational and assignment purposes only.
 
----
 
 # Acknowledgments
 
-- Microsoft Excel
-- GitHub
-- Online Excel learning resources
+- Thanks to **Entri Elevate** for providing structured learning and guidance on data preprocessing and Excel.
+- Gratitude to instructors and peers who supported my learning journey.
+- Microsoft Excel and Google Sheets for enabling easy data exploration and visualization.
 
-- Microsoft Excel
-- GitHub
-- Online Excel learning resources
+  
