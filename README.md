@@ -1,15 +1,13 @@
 # Excel-Based-Product-Information-Analysis
 
-This project focuses on data analysis using fundamental Excel formulas.
+Analysing product information using fundamental excel formulas and functions.
 
 ## Description
 
-This project is an Excel-based product data analysis assignment.  
-The dataset contains product details such as Product ID, Product Name, Brand Name, Price, Quantity, and Category.
+This project is an Excel-based Product data analysis assignment. It focuses on analysing various product details such as Product ID, Product Name, Brand Name, Price, Quantity, and Category.
 
 The purpose of this project is to perform basic data exploration and analysis using Excel formulas and functions. It helps to handle product data efficiently, improves accuracy in analysis and compare product performances.
 
----
 
 # Getting Started
 
@@ -21,7 +19,6 @@ Before opening this project, make sure you have:
 - Microsoft Excel 2016 or later
 - Basic knowledge of Excel formulas and tables
 
----
 
 # Installing
 
@@ -30,7 +27,6 @@ Before opening this project, make sure you have:
 3. Open the file using Microsoft Excel. 
 4. Enable editing if Excel shows a protected view warning.
 
----
 
 # Executing Program
 
@@ -40,7 +36,6 @@ Before opening this project, make sure you have:
 2. View the dataset file.
 3. Click the formulas in the file to explore the data
 
----
 
 # Help
 
@@ -49,11 +44,14 @@ Before opening this project, make sure you have:
 ### Excel file not opening
 Make sure Microsoft Excel is installed properly.
 
+### Mismatch Formulas
+Select the appropriate cell range for formulas
+
 
 # Authors
 
 **Shanthini**  
-BE CSE Graduate
+[Shanthini](shanthinimurugan001@gmail.com)
 
 
 # Version History
@@ -71,8 +69,7 @@ This project is created for educational and assignment purposes only.
 
 # Acknowledgments
 
-- Thanks to **Entri Elevate** for providing structured learning and guidance on data preprocessing and Excel.
-- Gratitude to instructors and peers who supported my learning journey.
-- Microsoft Excel and Google Sheets for enabling easy data exploration and visualization.
+- Entri Elevate course Support
+- Microsoft Excel
 
   
