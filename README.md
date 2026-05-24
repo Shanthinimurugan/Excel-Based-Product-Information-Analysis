@@ -42,10 +42,10 @@ Before opening this project, make sure you have:
 ## Common Issues
 
 ### Excel file not opening
-Make sure Microsoft Excel is installed properly.
+- Make sure Microsoft Excel is installed properly.
 
 ### Mismatch Formulas
-Select the appropriate cell range for formulas
+- Select the appropriate cell range for formulas
 
 
 # Authors
