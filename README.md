@@ -52,10 +52,10 @@ The following requirements are needed:
 
 # Version History
 
-**0.1** 
-    - Initial Release
-    - Added product dataset
-    - Applied Excel formulas and functions
+* 0.1
+    * Initial Release
+    * Added product dataset
+    * Applied Excel formulas and functions
 
 
 # License
