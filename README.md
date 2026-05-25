@@ -1,52 +1,48 @@
 # Excel-Based-Product-Information-Analysis
 
-Analysing product information using fundamental excel formulas and functions.
+Analysing product information using fundamental excel formulas and functions from a data analysis perspective.
 
 ## Description
 
-This project is an Excel-based Product data analysis assignment. It focuses on analysing various product details such as Product ID, Product Name, Brand Name, Price, Quantity, and Category.
+This project is an Excel-based Product data analysis assignment. It focuses on analysing various product details such as Product ID, Product Name, Brand Name, Price, Quantity, and Category. In this project, we used basic Excel formulas and functions to perform an analysis.
 
-The purpose of this project is to perform basic data exploration and analysis using Excel formulas and functions. It helps to handle product data efficiently, improves accuracy in analysis and compare product performances.
+The primary aim of this project is to reduce manual effort in handling product data and improve accuracy in analysis. It helps to handle product data efficiently and compare product performances.
 
 
 # Getting Started
 
 ## Dependencies
 
-Before opening this project, make sure you have:
+The following requirements are needed:
 
-- Windows 10 or later
-- Microsoft Excel 2016 or later
-- Basic knowledge of Excel formulas and tables
+* Operating System: Windows 10 or later
+* Software: Microsoft Excel 2016 or later
+* Knowledge of basic Excel formulas
 
 
 # Installing
 
-1. Download the Excel files from this repository.
-2. Save the files to your computer.
-3. Open the file using Microsoft Excel. 
-4. Enable editing if Excel shows a protected view warning.
+* Download the attached Excel files from this repository.
+* Save the files to your computer.
+* Open the file using Microsoft Excel. 
+* If Excel displays a Protected View Warning, click "Enable Editing".
 
 
 # Executing Program
 
 ## Steps to Run the Project
 
-1. Open the attached Excel file: ```Product Information Analysis using Excel.Xlsx```
-2. View the dataset file.
-3. Click the formulas in the file to explore the data
+1. Open the attached Excel file: ```Product Information Analysis using Excel.Xlsx``` and ```Raw Data.xlsx```
+2. View the Excel workbook.
+3. Click the output cell highlighted in yellow in the file to explore the data and compare the Raw data file to review the newly added columns.
 
 
 # Help
 
 ## Common Issues
 
-### Excel file not opening
-- Make sure Microsoft Excel is installed properly.
-
-### Mismatch Formulas
-- Select the appropriate cell range for formulas
-
+* Check whether Microsoft Excel is installed properly.
+* Incorrect cell selection may lead to misinterpretation of the calculations.
 
 # Authors
 
@@ -56,10 +52,10 @@ Before opening this project, make sure you have:
 
 # Version History
 
-## 0.1
-- Initial Release
-- Added product dataset
-- Applied Excel formulas and formatting
+**0.1** 
+    - Initial Release
+    - Added product dataset
+    - Applied Excel formulas and functions
 
 
 # License
